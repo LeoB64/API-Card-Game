@@ -15,3 +15,4 @@
 ## Description
 
 ## Author-info
+LinkedIn: www.linkedin.com/in/léandre-benoit
