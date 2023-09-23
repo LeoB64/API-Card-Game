@@ -1,7 +1,7 @@
-#Magix
+# Magix
 
 <ul dir="auto">
-  <li><a href="#screen-shots)">Screen shots</a></li>
+  <li><a href="#screen-shots">Screen shots</a></li>
   <li><a href="## Description">Description</a></li>
   <li><a href="## Author-info">Author Info</a></li>
 </ul>
