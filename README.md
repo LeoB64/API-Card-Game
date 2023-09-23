@@ -1,4 +1,5 @@
 # Magix
+
 ## Table of Contents
 <ul dir="auto">
   <li><a href="#screen-shots">Screen shots</a></li>
