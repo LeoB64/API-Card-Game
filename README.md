@@ -1,2 +1,2 @@
-# projects
-Public repository of my projects 
+# Magix
+## Public repository of my projects 
