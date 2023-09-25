@@ -9,9 +9,9 @@
 </ul>
 
 ## Screen shots
-<img src="img/read/ezgifLogin.gif" width="100%">
-<img src="img/read/Lobby.png">
-<img src="img/read/Game.png">
+<img src="img/global/read/ezgifLogin.gif" width="100%">
+<img src="img/global/read/Lobby.png">
+<img src="img/global/read/Game.png">
 
 ## Description
 
