@@ -4,8 +4,8 @@
 <ul dir="auto">
   <li><a href="#screen-shots">Screen shots</a></li>
   <li><a href="#description">Description</a></li>
-  <li><a href="#author-info">Author Info</a></li>
   <li><a href="#technologies-used">Technologies used</a></li>
+  <li><a href="#author-info">Author Info</a></li>
 </ul>
 
 ## Screen shots
