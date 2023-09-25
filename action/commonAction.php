@@ -34,12 +34,12 @@ abstract class CommonAction {
 
     protected abstract function executeAction();
 
-
+`
     /**
      * data = array('key1' => 'value1', 'key2' => 'value2');
      */
     public function callAPI($service, array $data) {
-        $apiURL = "https://magix.apps-de-cours.com/api/" . $service;
+        $apiURL = "https://cardGame.apps-de-cours.com/api/" . $service;
 
         $options = array(
             'http' => array(
