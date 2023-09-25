@@ -11,7 +11,7 @@
 <script src="scripts/lobby.js"></script>
 <script src="scripts/background.js"></script>
 
-<img src="img/global/magix-title.png" alt="Magix">
+<img src="img/global/cardGame-title.png" alt="cardGame">
 <div class="box">
     <p>Choisir une option</p>
     <div class="box-content">
@@ -29,7 +29,7 @@
 </div>
 <div class="chat">
     <iframe style="width:600px;height:240px;"onload="applyStyles(this)"
-        src="https://magix.apps-de-cours.com/server/#/chat/<?= $data["key"]?>">
+        src="https://cardGame.apps-de-cours.com/server/#/chat/<?= $data["key"]?>">
     </iframe>
 </div>
 <div id="boxCanvas">   
