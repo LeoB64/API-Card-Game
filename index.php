@@ -11,7 +11,7 @@
 <script src="scripts/index.js"></script>
 <script src="scripts/background.js"></script>
 
-<img src="img/global/magix-title.png" alt="Magix">
+<img src="img/global/cardGame-title.png" alt="cardGame">
 <div class="box">
     <p>Entrer votre nom d'usager et mot de passe </p>
     <?php
