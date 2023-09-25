@@ -1,4 +1,4 @@
-# Magix
+# API Card Game
 
 ## Table of Contents
 <ul dir="auto">
