@@ -53,7 +53,7 @@
 </div>
 <div id="chat">    
     <iframe style="width:600px;height:240px;"onload="applyStyles(this)"
-    src="https://magix.apps-de-cours.com/server/#/chat/<?= $data["key"]?>">
+    src="https://cardGame.apps-de-cours.com/server/#/chat/<?= $data["key"]?>">
     </iframe>
 
 
