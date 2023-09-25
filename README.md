@@ -9,9 +9,9 @@
 </ul>
 
 ## Screen shots
-<img src="img/read/ezgifMagixLogin.gif" width="100%">
-<img src="img/read/magixLobby.png">
-<img src="img/read/magixGame.png">
+<img src="img/read/ezgifLogin.gif" width="100%">
+<img src="img/read/Lobby.png">
+<img src="img/read/Game.png">
 
 ## Description
 
