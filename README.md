@@ -14,6 +14,9 @@
 <img src="img/global/read/Game.png">
 
 ## Description
+The API card game is a website using php, JavaScript, html and css that connects to an API. To play, it requires a valid account. After authenticating, you can play the game with a player or a computer.
+
+The website uses the MVC work pattern to separate the UI element and the security of the site. After sending and receiving data from the API, AJAX is used to change the game board during a match. 
 
 ## Technologies used
 <ul>
